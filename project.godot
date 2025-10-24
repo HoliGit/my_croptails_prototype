@@ -41,7 +41,6 @@ window/stretch/scale_mode="integer"
 
 [editor]
 
-
 version_control/autoload_on_startup=true
 
 [editor_plugins]
